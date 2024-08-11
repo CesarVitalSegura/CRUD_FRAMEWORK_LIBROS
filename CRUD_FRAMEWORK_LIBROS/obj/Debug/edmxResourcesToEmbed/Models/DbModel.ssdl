@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibrosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'Libros.dbo.Libros' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="Libros">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Titulo" Type="nvarchar" MaxLength="255" />
+    <Property Name="Autor" Type="nvarchar" MaxLength="255" />
+    <Property Name="AñoPublicacion" Type="int" />
+  </EntityType>
+  <EntityContainer Name="LibrosModelStoreContainer">
+    <EntitySet Name="Libros" EntityType="Self.Libros" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Libros].[ID] AS [ID], 
+[Libros].[Titulo] AS [Titulo], 
+[Libros].[Autor] AS [Autor], 
+[Libros].[AñoPublicacion] AS [AñoPublicacion]
+FROM [dbo].[Libros] AS [Libros]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

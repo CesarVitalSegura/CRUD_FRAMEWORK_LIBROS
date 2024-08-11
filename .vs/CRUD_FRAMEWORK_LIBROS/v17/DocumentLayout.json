@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\models\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\models\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\views\\libro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\views\\libro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|c:\\users\\tazce\\source\\repos\\crud_framework_libros\\crud_framework_libros\\views\\libro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE8E75CB-F4A4-422C-889D-1B13FAB56838}|CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS.csproj|solutionrelative:crud_framework_libros\\views\\libro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Create.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:36:10.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:24:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Delete.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:20:47.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Edit.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:19:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Details.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:17:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Views\\Libro\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:14:26.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwCcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:23:49.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Models\\Libros.cs",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Models\\Libros.cs",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Models\\Libros.cs",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Models\\Libros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:20:40.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Models\\DbModel.edmx",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_LIBROS\\Models\\DbModel.edmx",
+              "ToolTip": "C:\\Users\\tazce\\source\\repos\\CRUD_FRAMEWORK_LIBROS\\CRUD_FRAMEWORK_LIBROS\\Models\\DbModel.edmx [Diagram1]",
+              "RelativeToolTip": "CRUD_FRAMEWORK_LIBROS\\Models\\DbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-11T16:19:15.84Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
